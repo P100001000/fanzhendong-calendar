@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fan Zhendong Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🏓 樊振东比赛日历
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:27dbd2f23d3d572c6733@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20260829T170000
+DTEND;TZID=Asia/Shanghai:20260829T193000
+SUMMARY:🏓 樊振东｜德国杯｜vs TTF Liebherr Ochsenhausen
+DESCRIPTION:赛事：德国杯\\n轮次：Achtelfinale\\n对手：TTF Lie
+ bherr Ochsenhausen\\n开赛：北京时间 2026-08-29 17:00\\n直播：D
+ yn（付费，全部 TTBL/德国杯比赛）；优酷/优酷体育（国
+ 内已预告）\\n说明：这是杜塞尔多夫俱乐部赛程；樊振
+ 东是否实际出场以临场名单为准。\\n赛程来源：https://w
+ ww.borussia-duesseldorf.com/profis/spielplan
+LOCATION:Kia Metropol Arena Nürnberg
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ef504991c23fcf6ca9d2@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20260905T190000
+DTEND;TZID=Asia/Shanghai:20260905T213000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs TTC S
+ chwalbe Bergneustadt
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  4 轮\\n对手：TTC Schwalbe Bergneustadt\\n开赛：北京时间 2026
+ -09-05 19:00\\n直播：Dyn（付费，全部 TTBL/德国杯比赛）\\n
+ 说明：这是杜塞尔多夫俱乐部赛程；樊振东是否实际出
+ 场以临场名单为准。\\n赛程来源：https://www.borussia-duesse
+ ldorf.com/profis/spielplan
+LOCATION:ARAG CenterCourt\, Düsseldorf
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f63da9c91d64f69b556@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20260923T010000
+DTEND;TZID=Asia/Shanghai:20260923T033000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs Post 
+ SV Mühlhausen
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  5 轮\\n对手：Post SV Mühlhausen\\n开赛：北京时间 2026-09-23
+  01:00\\n直播：Dyn（付费，全部 TTBL/德国杯比赛）\\n说明
+ ：这是杜塞尔多夫俱乐部赛程；樊振东是否实际出场以
+ 临场名单为准。\\n赛程来源：https://www.borussia-duesseldorf.
+ com/profis/spielplan
+LOCATION:德国（客场地点以官方为准）
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8a02f5099f3d3c586a27@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20260927T200000
+DTEND;TZID=Asia/Shanghai:20260927T223000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs BV Bo
+ russia Dortmund
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  6 轮\\n对手：BV Borussia Dortmund\\n开赛：北京时间 2026-09-2
+ 7 20:00\\n直播：Dyn（付费，全部 TTBL/德国杯比赛）\\n说
+ 明：这是杜塞尔多夫俱乐部赛程；樊振东是否实际出场
+ 以临场名单为准。\\n赛程来源：https://www.borussia-duesseldo
+ rf.com/profis/spielplan
+LOCATION:CASTELLO Düsseldorf
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6a1a6edade02a000d1d4@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20261110T020000
+DTEND;TZID=Asia/Shanghai:20261110T043000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs TTC Z
+ ugbrücke Grenzau
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  7 轮\\n对手：TTC Zugbrücke Grenzau\\n开赛：北京时间 2026-11
+ -10 02:00\\n直播：Dyn（付费，全部 TTBL/德国杯比赛）\\n说
+ 明：这是杜塞尔多夫俱乐部赛程；樊振东是否实际出场
+ 以临场名单为准。\\n赛程来源：https://www.borussia-duesseldo
+ rf.com/profis/spielplan
+LOCATION:德国（客场地点以官方为准）
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a620ca0620cd126cb339@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20261115T210000
+DTEND;TZID=Asia/Shanghai:20261115T233000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs ASC G
+ rünwettersbach
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  8 轮\\n对手：ASC Grünwettersbach\\n开赛：北京时间 2026-11-1
+ 5 21:00\\n直播：Dyn（付费，全部 TTBL/德国杯比赛）\\n说
+ 明：这是杜塞尔多夫俱乐部赛程；樊振东是否实际出场
+ 以临场名单为准。\\n赛程来源：https://www.borussia-duesseldo
+ rf.com/profis/spielplan
+LOCATION:ARAG CenterCourt\, Düsseldorf
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fcbf455e4c8fc1292af4@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20261122T223000
+DTEND;TZID=Asia/Shanghai:20261123T010000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs 1.FC 
+ Saarbrücken-TT
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  9 轮\\n对手：1.FC Saarbrücken-TT\\n开赛：北京时间 2026-11-2
+ 2 22:30\\n直播：Dyn（付费，全部 TTBL/德国杯比赛）\\n说
+ 明：这是杜塞尔多夫俱乐部赛程；樊振东是否实际出场
+ 以临场名单为准。\\n赛程来源：https://www.borussia-duesseldo
+ rf.com/profis/spielplan
+LOCATION:德国（客场地点以官方为准）
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7ae0896f40e04a4f1da@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20261214T003000
+DTEND;TZID=Asia/Shanghai:20261214T030000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs TTC R
+ hönSprudel Fulda-Maberzell
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  10 轮\\n对手：TTC RhönSprudel Fulda-Maberzell\\n开赛：北京时
+ 间 2026-12-14 00:30\\n直播：Dyn（付费，全部 TTBL/德国杯比
+ 赛）\\n说明：这是杜塞尔多夫俱乐部赛程；樊振东是否
+ 实际出场以临场名单为准。\\n赛程来源：https://www.boruss
+ ia-duesseldorf.com/profis/spielplan
+LOCATION:德国（客场地点以官方为准）
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c883e597aeec5ba9a170@fanzhendong-calendar
+DTSTAMP:20260828T154112Z
+DTSTART;TZID=Asia/Shanghai:20261220T210000
+DTEND;TZID=Asia/Shanghai:20261220T233000
+SUMMARY:🏓 樊振东｜德国乒乓球甲级联赛（TTBL）｜vs TTF L
+ iebherr Ochsenhausen
+DESCRIPTION:赛事：德国乒乓球甲级联赛（TTBL）\\n轮次：第
+  11 轮\\n对手：TTF Liebherr Ochsenhausen\\n开赛：北京时间 202
+ 6-12-20 21:00\\n直播：Dyn（付费，全部 TTBL/德国杯比赛）\\
+ n说明：这是杜塞尔多夫俱乐部赛程；樊振东是否实际
+ 出场以临场名单为准。\\n赛程来源：https://www.borussia-due
+ sseldorf.com/profis/spielplan
+LOCATION:Georg-Gaßmann-Sporthalle\, Marburg
+URL:https://www.borussia-duesseldorf.com/profis/spielplan
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:樊振东比赛将在 30 分钟后开始
+END:VALARM
+END:VEVENT
+END:VCALENDAR
